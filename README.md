@@ -19,6 +19,6 @@ If you have criticism for the bot, feel free to create an issue with the `Critic
 
 Feel free to submit feedback for all of Invite Logger's services: the website or the bot.
 
-# Feature Requests
+# Ideas
 
 Feel free to request features that you have seen in other bots or you think are appropriate for the bot. Try to keep in scope: the bot is focused on invite logging.
